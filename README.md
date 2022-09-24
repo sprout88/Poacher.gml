@@ -3,7 +3,7 @@
 
 <h1>##DEMO</h1>
 <h3>#Breakable Wall System</h3>
-![export01-1](https://user-images.githubusercontent.com/106306092/192113177-c62473ea-19d8-459a-b761-f1855ca06502.gif)
+https://user-images.githubusercontent.com/106306092/192113177-c62473ea-19d8-459a-b761-f1855ca06502.gif
 
 <h3>#Enemy Navigator</h3>
 ![export01-2](https://user-images.githubusercontent.com/106306092/192113178-7692367d-be44-4b18-90d2-60c496613d2c.gif)
